@@ -68,6 +68,7 @@ May increase file size for data with no repetition.
 
 Cannot handle numeric characters properly without advanced logic (e.g., distinguishing between count and actual character).
 
-✅ Conclusion:
+ Conclusion:
 This simple tool demonstrates the power and simplicity of Run-Length Encoding for basic compression tasks. It teaches students how compression works at a low level and provides insight into the importance of data patterns in achieving better compression rates. For real-world applications, more advanced algorithms like Huffman Coding or LZW would be needed, but RLE remains an excellent starting point for learning data compression techniques.
 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/b494d1c4-4aad-4553-82b4-d09e376610d2)
